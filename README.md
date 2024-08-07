@@ -1,5 +1,6 @@
-# Learn_C
-
+<div align="center">
+  <h1>MODULES EN C</h1>
+</div>
 Ce dépôt contient une série de modules pour apprendre le langage C, avec un focus particulier sur les concepts suivants :
 
 ## Concepts Appris
